@@ -12,4 +12,5 @@ The sites that I copied from was https://www.w3schools.com/howto/tryit.asp?filen
 The horizontal dotted line  was taken from  https://www.w3schools.com/css/tryit.asp?filename=trycss_align_text. 
 
 The font that I took was https://fonts.google.com/?query=times+new+roman   Times New Roman', Times, serif;
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 
